@@ -13,4 +13,5 @@ Pyysalo, S., F. Ginter, H. Moen, T. Salakoski,y S. Ananiadou. 2013. Distribution
 Gräßer, F., Kallumadi, S., Malberg, H., Zaunseder, S. Aspect-Based Sentiment Analysis of Drug Reviews Applying Cross-Domain and Cross-Data Learning, proceedings of 2018 International Conference on Digital Health, 2018, pp. 121-125: ACM.
 
 # Reference
-Sentiment analysis on health domain: analyzing patient comments on drugs
+
+Cristóbal Colón Ruiz, Isabel Segura Bedmar, Paloma Martínez Fernández. (2019). Sentiment analysis on health domain: analyzing patient comments on drugs. XXXV Congreso Internacional de la Sociedad Española para el Procesamiento del Lenguaje Natural, SEPLN2019. (In press). SCOPUS, Computer Science Applications, 0,235, Q3
