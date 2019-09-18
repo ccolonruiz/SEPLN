@@ -14,4 +14,4 @@ Gräßer, F., Kallumadi, S., Malberg, H., Zaunseder, S. Aspect-Based Sentiment A
 
 # Reference
 
-Cristóbal Colón Ruiz, Isabel Segura Bedmar, Paloma Martínez Fernández. (2019). Sentiment analysis on health domain: analyzing patient comments on drugs. XXXV Congreso Internacional de la Sociedad Española para el Procesamiento del Lenguaje Natural, SEPLN2019. (In press). SCOPUS, Computer Science Applications, 0,235, Q3
+[Cristóbal Colón Ruiz, Isabel Segura Bedmar, Paloma Martínez Fernández. (2019). Análisis de sentimiento en el dominio salud: analizando comentarios sobre fármacos. Procesamiento del Lenguaje Natural, SEPLN 2019. 63, 15 - 22. ISSN: 1135-5948. 2019, Septiembre. SCOPUS, Computer Science Applications, 0,235, Q3](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6090)
